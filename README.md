@@ -60,7 +60,7 @@ This Unity project implements a single-player "War" card game for a technical as
 ## Instructions for Running and Testing
 
 ### Requirements
-- **Unity Version**: 6000.0 (URP)
+- **Unity Version**: Unity 6000.0.48f1. (URP)
 - **Dependencies**:
   - UniTask (via Unity Package Manager)
   - DOTween (via Unity Package Manager)
